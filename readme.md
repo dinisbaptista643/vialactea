@@ -1,12 +1,12 @@
-🌌 Via Láctea — Estrelas Mais Próximas do Sol
+# 🌌 Via Láctea — Estrelas Mais Próximas do Sol
 
 Projeto desenvolvido em JavaScript com p5.js que representa uma visualização interativa da vizinhança solar dentro da Via Láctea. O programa mostra algumas das estrelas mais próximas do Sol utilizando dados astronómicos reais, animações suaves e uma interface gráfica interativa.
 
-📚 Objetivo do Trabalho
+## 📚 Objetivo do Trabalho
 
 O objetivo deste projeto é criar uma simulação visual educativa da nossa região da galáxia, permitindo explorar estrelas próximas do Sistema Solar através de visualização espacial em 2D, animações e interação com o utilizador.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 JavaScript
 p5.js
 Canvas 2D
